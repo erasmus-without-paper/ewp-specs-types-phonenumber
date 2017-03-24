@@ -32,8 +32,8 @@ You can read more on this standard:
 
 ### Compatibility and conversions
 
-There are free libraries, such as Google's [libphonenumber]
-(https://github.com/googlei18n/libphonenumber), which allow you to convert
+There are free libraries, such as Google's
+[libphonenumber](https://github.com/googlei18n/libphonenumber), which allow you to convert
 between national phone numbers and E.164. This means that clients will be able
 to "pretty print" such number, and server should also be able to easily provide
 them in E.164 format.
