@@ -5,6 +5,12 @@ This document describes all the changes made to the *EWP Phone Number Types*
 document, starting from its first beta draft version.
 
 
+1.0.1
+-----
+
+* Fixed Markdown links.
+
+
 1.0.0
 -----
 
